@@ -1,6 +1,5 @@
 function ethopatch(time, color, alpha, Xlimt, border_alpha)
-% this function is to plot the color patch corresponding to one behavior for ethogram, in the
-% ethoSingle function
+% this function is to plot the color patch corresponding to one behavior for ethogram
 % Created by Lijun Qi
 
 if ~isempty(time)
