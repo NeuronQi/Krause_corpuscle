@@ -1,5 +1,7 @@
 function ethopatchF(time, color, alpha, Xlimt, stopTime, border_alpha,type)
 
+% This function is to plot the color patches for female mating behaivors. 
+
 % input
 arguments
     time
